@@ -1,0 +1,26 @@
+ ___                           ___     _     
+/\_ \                         /\_ \  /' \    
+\//\ \      __   __  __     __\//\ \/\_, \   
+  \ \ \   /'__`\/\ \/\ \  /'__`\\ \ \/_/\ \  
+   \_\ \_/\  __/\ \ \_/ |/\  __/ \_\ \_\ \ \ 
+   /\____\ \____\\ \___/ \ \____\/\____\\ \_\
+   \/____/\/____/ \/__/   \/____/\/____/ \/_/
+
+Welcome to LEVEL1 of the HackUS CTF Final!!!
+
+Hint :
+	Playing around with crypto will just make us stronger. Let do this in four steps shall we.
+	1) Find the 16 block of our protagonist string. Might want to check in the trash?
+	
+	2) Recreate the final hash with the four parts (big indian to little indian)
+	
+	3) We only Rotate this 1 to 3 times a year on a Friday.
+	
+	4) Two equal part of Rot
+	   One part of Ciph
+	   Last part of Key (gift from Blaise de Vigenère)
+
+    Answer : Is a readable string ;)
+
+Submit : ./ask-god -c ctff01 "YOUR_STRING"
+

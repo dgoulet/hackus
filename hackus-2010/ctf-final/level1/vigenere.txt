@@ -1,0 +1,4 @@
+Plain : WeCryptThePlanet
+Key : AlterFromHackers
+
+Cipher : WpVvpukHtlPnkrvl

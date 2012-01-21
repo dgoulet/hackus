@@ -1,0 +1,17 @@
+PPPPPPPPPPPPPPPPP                                               tttt             444444444                              JJJJJJJJJJJ                  
+P::::::::::::::::P                                           ttt:::t            4::::::::4                              J:::::::::J                  
+P::::::PPPPPP:::::P                                          t:::::t           4:::::::::4                              J:::::::::J                  
+PP:::::P     P:::::P                                         t:::::t          4::::44::::4                              JJ:::::::JJ                  
+  P::::P     P:::::Paaaaaaaaaaaaa  rrrrr   rrrrrrrrr   ttttttt:::::ttttttt   4::::4 4::::4                                J:::::J    cccccccccccccccc
+  P::::P     P:::::Pa::::::::::::a r::::rrr:::::::::r  t:::::::::::::::::t  4::::4  4::::4        ::::::                  J:::::J  cc:::::::::::::::c
+  P::::PPPPPP:::::P aaaaaaaaa:::::ar:::::::::::::::::r t:::::::::::::::::t 4::::4   4::::4        ::::::                  J:::::J c:::::::::::::::::c
+  P:::::::::::::PP           a::::arr::::::rrrrr::::::rtttttt:::::::tttttt4::::444444::::444      ::::::                  J:::::jc:::::::cccccc:::::c
+  P::::PPPPPPPPP      aaaaaaa:::::a r:::::r     r:::::r      t:::::t      4::::::::::::::::4                              J:::::Jc::::::c     ccccccc
+  P::::P            aa::::::::::::a r:::::r     rrrrrrr      t:::::t      4444444444:::::444                  JJJJJJJ     J:::::Jc:::::c             
+  P::::P           a::::aaaa::::::a r:::::r                  t:::::t                4::::4                    J:::::J     J:::::Jc:::::c             
+  P::::P          a::::a    a:::::a r:::::r                  t:::::t    tttttt      4::::4        ::::::      J::::::J   J::::::Jc::::::c     ccccccc
+PP::::::PP        a::::a    a:::::a r:::::r                  t::::::tttt:::::t      4::::4        ::::::      J:::::::JJJ:::::::Jc:::::::cccccc:::::c
+P::::::::P        a:::::aaaa::::::a r:::::r                  tt::::::::::::::t    44::::::44      ::::::       JJ:::::::::::::JJ  c:::::::::::::::::c
+P::::::::P         a::::::::::aa:::ar:::::r                    tt:::::::::::tt    4::::::::4                     JJ:::::::::JJ     cc:::::::::::::::c
+PPPPPPPPPP          aaaaaaaaaa  aaaarrrrrrr                      ttttttttttt      4444444444                       JJJJJJJJJ         cccccccccccccccc
+

@@ -1,0 +1,4 @@
+# Alice's Cron
+
+# Launch every 3 minutes
+*/2 * * * *   /home/alice/launch-alice

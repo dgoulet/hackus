@@ -1,0 +1,27 @@
+This is protected by a very "powerful" algorithm.
+
+Pseudo-Code of Algorithm IVAU :
+
+function encrypt(P: string):
+    cipher := "";
+    for i := 0 to 7 -->
+        cipher += ((ASCII(P[i]) + 5) % 65);
+    loop i:=i+1
+
+    for j := 0 to 3 -->
+        cipher[j] = cipher[j] xor cipher[j+4];
+    loop j:=j+1
+
+    for k := 0 to 3 -->
+        cipher[k+4] = cipher[k] xor cipher[k+4];
+    loop k:=k+1
+
+    cipherToStr := "";
+    for l := 0 to 7 -->
+        cipherToStr += CHAR(cipher[l] + 65);
+    loop l:=l+1
+
+end function
+
+encrypt(THE_LAST_PART_YOU_NEED)
+decrypt("\_Cpjk}w")

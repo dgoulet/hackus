@@ -1,0 +1,30 @@
+Computer Name : WOPR
+
+- Greetings Professor Falken.
+
+Hello.
+
+- Shall we play a game?
+
+Love to. How about Global Thermonuclear War?
+
+- Wouldn't you prefer a good game of chess?
+
+Later. Let's play global thermonuclear war
+
+- Fine
+
+- Which side do you want?
+
+    1) United States
+    2) Soviet Union
+
+2
+
+- Awaiting firs strike command
+Please list primary targets by city and/or county name:
+
+Las Vegas
+Seattle
+
+Connection Closed (Flag : ThermoNuclear)

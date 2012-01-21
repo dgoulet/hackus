@@ -1,0 +1,17 @@
+#!/bin/sh
+
+case "$SSH_ORIGINAL_COMMAND" in
+    *\|* | *\&* | *\<* | *\`* | *cat*)
+    echo "Rejected"
+    ;;
+    
+    # Only permit 'fortune' :-)
+    #   NOTE : Too much abuse on fortune so NO MORE output
+    '(fortune'*)
+    eval ${SSH_ORIGINAL_COMMAND} > /dev/null
+    ;;
+    
+    *)
+    echo "Rejected. Only fortune is permit"
+    ;;
+esac
