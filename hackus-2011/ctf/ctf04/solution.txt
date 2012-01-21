@@ -1,0 +1,24 @@
+(i386) Command : ppppppppppppnooon 
+
+c_on overflow with 'on'
+
+Choose : 6
+Pretty Print : FORMAT_STRING_POP_STACK
+
+FORMAT_STRING to modify "filename" on the stack
+
+Choose : l
+
+(i386) User : ppppppppnooon
+Pass : celinedion
+
+// SOME DATA WILL BE OUTPUT //
+
+Decrypt with :
+
+openssl enc -d -rc2-40-cbc -in flag.txt
+
+Pass : celinedion
+
+
+FLAG : "hypnotoad"
