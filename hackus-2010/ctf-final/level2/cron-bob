@@ -1,4 +1,0 @@
-# Bob's Cron
-
-# Launch every minute
-*/1 * * * *   /usr/bin/python /home/bob/bob.py > /dev/null 2>&1

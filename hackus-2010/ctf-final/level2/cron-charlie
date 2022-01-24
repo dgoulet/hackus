@@ -1,4 +1,0 @@
-# Charlie's Cron
-
-# Launch every minute
-*/1 * * * *   /usr/bin/python /home/charlie/charlie.py > /dev/null 2>&1

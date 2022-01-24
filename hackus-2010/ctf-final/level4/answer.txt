@@ -1,2 +1,0 @@
-lambda@ctff04:~$ ssh localhost -l vexillum '(fortune ; less flag.txt > /tmp/t.txt)'
-

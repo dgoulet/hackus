@@ -1,1 +1,0 @@
-var _0x2622=["\x49","\x77\x72\x69\x74\x65","\x69"];function Xjfhs_ii(){return {firstPart:function (){document[_0x2622[1]](_0x2622[0]);} ,secondPart:function (){document[_0x2622[1]](_0x2622[2]);} };} 
